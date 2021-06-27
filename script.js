@@ -39,7 +39,7 @@ function newQoute() {
     }
     // Set Qoute, Hide Loader
     qouteText.textContent = qoute.text;
-    complete();
+    complete(); 
 }
 
 // Get Qoute From Api
